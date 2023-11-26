@@ -1,0 +1,5 @@
+# Created at 2023-11-27T00:18:45.877
+Boot Manifest-JAR contains absolute paths in classpath 'D:\telegrambot\evening26.11.23\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
